@@ -35,6 +35,6 @@
       Un proyecto colaborativo de un diccionario interactivo de términos de programación, desarrollado con <strong>Python</strong>, <strong>Tkinter</strong> y <strong>DOT</strong> para los diagramas de flujo.
     </p>
     <p align="center">
-      <img src="./assets/Ejercicio Integrado.png" alt="Captura de proyecto" width="100%" style="border-radius: 8px;">
+      <img src="./assets/Ejercicio Integrado.png" alt="Captura de proyecto" width="20%" style="border-radius: 8px;">
     </p>
   </div>
