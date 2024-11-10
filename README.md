@@ -25,6 +25,8 @@
 ## 📈 <span style="color: #ff9561;">Proyectos Destacados</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; justify-items: center; margin: 0 auto;">
+
+
   <div style="border: 2px solid #ff9561; padding: 20px; width: 100%; max-width: 350px; border-radius: 8px; background-color: #2a2a2a;">
     <h3 style="text-align: center; color: #ff9561;">
       <a href="https://github.com/Panconhu3vo/Ejercicio-Integrado" style="text-decoration: none; color: #ff9561;">
@@ -33,8 +35,5 @@
     </h3>
     <p style="text-align: center; color: #f2f2f2;">
       Un proyecto colaborativo de un diccionario interactivo de términos de programación, desarrollado con <strong>Python</strong>, <strong>Tkinter</strong> y <strong>DOT</strong> para los diagramas de flujo.
-    </p>
-    <p align="center">
-      <img src="./assets/Ejercicio Integrado.png" alt="Captura de proyecto" width="100%" style="border-radius: 8px;">
     </p>
   </div>
