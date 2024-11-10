@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <span style="color: #f2f2f2;">Hola, soy Juan Yañez 👋</span>
+  <span style="color: #f2f2f2;">Hola, soy Juan Ignacio 👋</span>
 </h1>
 
 <p align="center">
@@ -25,7 +25,6 @@
 ## 📈 <span style="color: #ff9561;">Proyectos Destacados</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; justify-items: center; margin: 0 auto;">
-
 
   <div style="border: 2px solid #ff9561; padding: 20px; width: 100%; max-width: 350px; border-radius: 8px; background-color: #2a2a2a;">
     <h3 style="text-align: center; color: #ff9561;">
