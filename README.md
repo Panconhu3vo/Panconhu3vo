@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Banner.png" alt="Banner">
+  <img src="./assets/Banner Linkedin.jpg" alt="Banner">
 </p>
 
 <h1 align="center">
@@ -20,7 +20,6 @@
 
 -   <span style="color: #ff9561;">**Git & GitHub**</span> (Control de versiones, colaboración)
 -   <span style="color: #f2f2f2;">**Tkinter**</span> (Para crear interfaces gráficas en Python)
--   <span style="color: #ff9561;">**DOT**</span> (Para crear diagramas de flujo)
 
 ## 📈 <span style="color: #ff9561;">Proyectos Destacados</span>
 
