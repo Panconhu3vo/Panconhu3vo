@@ -12,36 +12,41 @@
 
 ### <span style="color: #f2f2f2">Lenguajes de Programación:</span>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <div>
-    <img src="./assets/Icons/Official_CSS_Logo.svg.png" alt="CSS"   style="height: 50px; width:50px;"/>
-  </div>
-  <div>
-    <img src="./assets/Icons/Unofficial_JavaScript_logo_2.svg.png" alt="JS"   style="height: 50px; width:50px;"/>
-  </div>
-  <div>
-    <img src="./assets/Icons/181_Java_logo_logos-512.webp" alt="Java"   style="height: 50px; width:50px;"/>
-  </div>
-   <div>
-    <img src="./assets/Icons/SQL.png" alt="SQL"   style="height: 50px; width:auto  ;"/>
-  </div>
-  <div>
-    <img src="./assets/Icons/Python-logo-notext.svg.png" alt="SQL"   style="height: 50px; width:auto  ;"/>
-  </div>
-</div>
+<table>
+<tr>
+  <td>
+    <img src="./assets/Icons/Official_CSS_Logo.svg.png" alt="CSS" style="height: 50px; width:50px;"/>
+  </td>
+  <td>
+    <img src="./assets/Icons/Unofficial_JavaScript_logo_2.svg.png" alt="JS" style="height: 50px; width:50px;"/>
+  </td>
+  <td>
+    <img src="./assets/Icons/181_Java_logo_logos-512.webp" alt="Java" style="height: 50px; width:50px;"/>
+  </td>
+  <td>
+    <img src="./assets/Icons/SQL.png" alt="SQL" style="height: 50px; width:auto;"/>
+  </td>
+  <td>
+    <img src="./assets/Icons/Python-logo-notext.svg.png" alt="Python" style="height: 50px; width:auto;"/>
+  </td>
+</tr>
+</table>
 
 ### <span style="color: #f2f2f2">Herramientas y Tecnologías:</span>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <div>
-    <img src="./assets/Icons/GitHub_Invertocat_Logo.svg.png" alt="CSS"   style="height: 50px; width:50px;"/>
-  </div>
-  <div>
-    <img src="./assets/Icons/React-icon.svg.png" alt="CSS"   style="height: 50px; width:auto;"/>
-  </div>
-  <div>
-    <img src="./assets/Icons/ExpoLogo.png" alt="CSS"   style="height: 50px; width:auto;"/>
-  </div>
-</div>
+<table>
+<tr>
+<td>
+    <img src="./assets/Icons/React-icon.svg.png" alt="React" style="height: 50px; width:auto;"/>
+  </td>
+<td>
+    <img src="./assets/Icons/GitHub_Invertocat_Logo.svg.png" alt="React" style="height: 50px; width:50px;"/>
+  </td>
+  <td>
+    <img src="./assets/Icons/ExpoLogo.png" alt="React" style="height: 50px; width:50px;"/>
+  </td>
+  
+</tr>
+</table>
 
 ## 📈 <span style="color: #ff9561">Proyectos Destacados</span>
