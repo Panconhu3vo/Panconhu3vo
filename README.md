@@ -17,6 +17,7 @@
 <p align="center">
   <img src="./assets/Icons/Official_CSS_Logo.svg.png" alt="CSS" height="40"/>
   <img src="./assets/Icons/Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="40"/>
+  <img src="./assets/Icons/typescript-icon-svgrepo-com.svg" alt="Python" height="40"/>
   <img src="./assets/Icons/181_Java_logo_logos-512.webp" alt="Java" height="40"/>
   <img src="./assets/Icons/SQL.png" alt="SQL" height="40"/>
   <img src="./assets/Icons/Python-logo-notext.svg.png" alt="Python" height="40"/>
@@ -34,6 +35,36 @@
 
 ## 📈 Proyectos Destacados
 
-<!-- Aquí puedes agregar una lista de tus proyectos más importantes con enlaces y descripciones breves. Ejemplo:
-- [Nombre del Proyecto](URL) - Breve descripción.
--->
+<div align="center">
+  <table>
+    <tr>
+      <td width="120">
+        <img src="./assets/Icons/IMG-proyecto.jpeg" alt="Nombre del Proyecto" width="200"/>
+      </td>
+      <td>
+        <h3>Diccionario del programador, Inglés-Español</h3>
+        <p>
+          Diccionario interactivo con +4000 términos para programadores, aplicando Python y Tkinter para la interfaz gráfica. Este sistema permite agregar, eliminar, buscar y visualizar términos técnicos de programación en inglés y español.<br>
+          <a href="https://github.com/Panconhu3vo/Ejercicio-Integrado">Ver repositorio</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="120">
+        <img src="./assets//Icons/Icon-PPAES-1024x1024.png" alt="Nombre del Proyecto" width="200"/>
+      </td>
+      <td>
+        <h3>Pondera PAES</h3>
+        <p>
+          Aplicación móvil diseñada para asistir a estudiantes interesados en la educación superior, proporcionando herramientas para calcular puntajes de ponderación, explorar información detallada de carreras universitarias (grados, duración, descripciones) y conocer los requisitos de admisión..<br>
+          <a href="https://github.com/Panconhu3vo/Pondera-PAES">Ver repositorio</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
