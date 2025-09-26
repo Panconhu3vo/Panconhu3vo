@@ -78,7 +78,7 @@
         <h3>Portafolio Web</h3>
         <p>
           Portafolio web desarrollado, diseñe y construí todo el sitio desde cero, utilizando React y lo desplegué fácilmente gracias a Vercel.<br>
-          <a href="https://github.com/Panconhu3vo/Pondera-PAES">Ver repositorio</a>
+          <a href="https://github.com/Panconhu3vo/mi-portafolio">Ver repositorio</a>
         </p>
       </td>
     </tr>
