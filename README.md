@@ -77,7 +77,7 @@
       <td>
         <h3>Portafolio Web</h3>
         <p>
-          Portafolio web desarrollado, diseñe y construí todo el sitio desde cero, utilizando React y lo desplegué fácilmente gracias a Vercel.<br>
+          Portafolio web, diseñe y construí todo el sitio desde cero, utilizando React y lo desplegué fácilmente gracias a Vercel.<br>
           <a href="https://github.com/Panconhu3vo/mi-portafolio">Ver repositorio</a>
         </p>
       </td>
