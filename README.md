@@ -61,7 +61,23 @@
       <td>
         <h3>Pondera PAES</h3>
         <p>
-          Aplicación móvil diseñada para asistir a estudiantes interesados en la educación superior, proporcionando herramientas para calcular puntajes de ponderación, explorar información detallada de carreras universitarias (grados, duración, descripciones) y conocer los requisitos de admisión..<br>
+          Aplicación móvil diseñada para asistir a estudiantes interesados en la educación superior, proporcionando herramientas para calcular puntajes de ponderación, explorar información detallada de carreras universitarias (grados, duración, descripciones) y conocer los requisitos de admisión.<br>
+          <a href="https://github.com/Panconhu3vo/Pondera-PAES">Ver repositorio</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="120">
+        <img src="./assets/Icons//PortfolioWeb.png" alt="Nombre del Proyecto" width="200"/>
+      </td>
+      <td>
+        <h3>Portafolio Web</h3>
+        <p>
+          Portafolio web desarrollado, diseñe y construí todo el sitio desde cero, utilizando React y lo desplegué fácilmente gracias a Vercel.<br>
           <a href="https://github.com/Panconhu3vo/Pondera-PAES">Ver repositorio</a>
         </p>
       </td>
